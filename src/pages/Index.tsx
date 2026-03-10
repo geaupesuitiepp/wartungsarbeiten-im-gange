@@ -34,11 +34,11 @@ const Index = () => {
               Kontakt
             </p>
             <a
-              href="mailto:info@example.com"
+              href="mailto:info@europahaus.net"
               className="inline-flex items-center gap-3 text-foreground font-mono text-sm hover:text-accent transition-colors duration-300"
             >
               <Mail className="w-4 h-4" />
-              info@example.com
+              info@europahaus.net
             </a>
           </div>
         </div>
