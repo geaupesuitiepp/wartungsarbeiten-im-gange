@@ -49,6 +49,7 @@ All colors MUST be HSL.
 
     --font-mono: 'Roboto Mono', monospace;
     --font-body: 'Source Sans 3', sans-serif;
+  }
 }
 
 @layer base {
